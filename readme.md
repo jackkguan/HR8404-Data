@@ -27,7 +27,7 @@ This repository hosts the data and replication code analyzing Republican support
      notes: miscellaneous information
 
 ### Replication
-Download the two replication files in this repository [replication-code.rmd](https://github.com/jackkguan/HR8404-Data/blob/main/replication-code.rmd) and [replication-data.csv](https://github.com/jackkguan/HR8404-Data/blob/main/replication-data.csv). Launch the replication code in R Studio and update the replication data's file path as needed based on where it is located in your local environment. The replication code only requires one R package (estimatr).
+Download the two replication files in this repository: [replication-code.rmd](https://github.com/jackkguan/HR8404-Data/blob/main/replication-code.rmd) and [replication-data.csv](https://github.com/jackkguan/HR8404-Data/blob/main/replication-data.csv). Launch the replication code in R Studio and update the replication data's file path as needed based on where it is located in your local environment. The replication code utilizes one R package (estimatr) which will launch when the code is run.
 
 ### Issues & Questions
 Feel free to reach out by [email](mailto:jackguan@berkeley.edu).
