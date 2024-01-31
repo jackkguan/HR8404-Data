@@ -3,11 +3,17 @@ This repository hosts the data and replication code analyzing Republican support
 
 # Codebook
 state: district state
+
 district: district number
+
 member: member last name
+
 party: member party
+
      0: Democrat
+     
      1: Republican
+     
 vote0: vote on H.R.8404 in either July or December
      0: "no" vote twice
      1: "yes" vote at least once
