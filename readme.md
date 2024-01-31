@@ -25,3 +25,9 @@ This repository hosts the data and replication code analyzing Republican support
           1: inside of range
      pvi: Cook PVI score
      notes: miscellaneous information
+
+### Replication
+Download the two replication files in this repository [replication-code.rmd]([https://www.google.com](https://github.com/jackkguan/HR8404-Data/blob/main/replication-code.rmd)https://github.com/jackkguan/HR8404-Data/blob/main/replication-code.rmd) and [replication-data.csv](https://github.com/jackkguan/HR8404-Data/blob/main/replication-data.csv). Launch the replication code in R Studio and update the replication data's file path as needed based on where it is located in your local environment. The replication code only requires one R package (estimatr).
+
+### Issues & Questions
+Feel free to reach out by [email](mailto:jackguan@berkeley.edu).
