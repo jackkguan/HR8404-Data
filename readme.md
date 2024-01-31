@@ -11,7 +11,6 @@ member: member last name
 party: member party
 
      0: Democrat
-     
      1: Republican
      
 vote0: vote on H.R.8404 in either July or December
